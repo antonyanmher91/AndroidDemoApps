@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/2a738951f74d3bd723eb049de3fe288b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/0712802d13bb018f24cfc7b6c53ad44e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mher/.gradle/caches/transforms-2/files-2.1/d501aba8f3eeed52b10b6e478d98b977/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/a0135b6e499771cdee08c182b9771642/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/03a1d95be5424ae35c73f3c60a3f8d95/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/mher/.gradle/caches/transforms-2/files-2.1/d0d6e8afc4d12dc6cd48be132a342b43/AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/d98bd9b1f2f3a03cb90aa0ccab0e82b9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/cf6e99d3f43f587ca4ae136a0898db11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/50c4b34db72c00e04be7f32e7685f59a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/66ffbc9a25f8532b24cce875796f1409/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/db90febcaaaed85da6e0d57b5317af73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/e441819dda99110ead152275eed83e7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/62deec7622d9ab2c296daa7d64105ba1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/5221f8c008092ed2fa817d637c45503e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/4618f6242449fe63e5cd2af0a7b4d683/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/761b774a3f6359204d447dcfce338be1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/68e32f5f48bcd7dec70fc601f82a9945/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/82a5c70d9a8e3301f1728b380ae774f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/08e29da07044492c7e250e76816a0d41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/75930fb6a6d426beab69db72c0cb082e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/14f5bb2b364ea405800bddca83844357/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/d3188803b3aab8df42639a7e211fcc2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/aec0c52aba6911476a5914004b63bb6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/d81e16dae1f34814754dea8bf07182b2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/38c3e7e65a8e28055dbb8403659df559/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/a14f50610d678169fec51534830c24e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/735d850a5f64f974839653793d753967/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/6352944253f49fb2ff2d27fc02de32f1/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/6b889757cbee88196c08e08fba7a39f3/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/b5495248352c5a3794e87d25392d34b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/c5e7102a0cd0585d649fe0dc68891f65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/a67edc415c9797ffe271d8b676ecaa32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/2ca36675e81c16077c3a455b7693e304/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/3e9c202595aad639daf9e18d1540688d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/21cb3795c1a95be2074bb914f60fb594/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/6af615ef9464f8a68c450a1038ce83b6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/3d92c3e2f299246b9077c659b713486c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/edc5b8027382cd76ce74cb73e5b9e8ce/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:5:5-7:23
+	android:name
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:5:22-70
+application
+ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support:design:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/2a738951f74d3bd723eb049de3fe288b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/2a738951f74d3bd723eb049de3fe288b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mher/.gradle/caches/transforms-2/files-2.1/d501aba8f3eeed52b10b6e478d98b977/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mher/.gradle/caches/transforms-2/files-2.1/d501aba8f3eeed52b10b6e478d98b977/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/03a1d95be5424ae35c73f3c60a3f8d95/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/03a1d95be5424ae35c73f3c60a3f8d95/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/d81e16dae1f34814754dea8bf07182b2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/d81e16dae1f34814754dea8bf07182b2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/38c3e7e65a8e28055dbb8403659df559/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/38c3e7e65a8e28055dbb8403659df559/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/d81e16dae1f34814754dea8bf07182b2/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:10:9-36
+	android:allowBackup
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:14:9-52
+receiver#com.example.myschedule.BroadReceiver
+ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:15:9-18:49
+	android:enabled
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:17:13-35
+	android:exported
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:16:13-42
+activity#com.example.myschedule.Activities.CategoryActivity
+ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:20:9-65
+	android:name
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:20:19-62
+activity#com.example.myschedule.Activities.MainActivity
+ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:21:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/2a738951f74d3bd723eb049de3fe288b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/2a738951f74d3bd723eb049de3fe288b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/0712802d13bb018f24cfc7b6c53ad44e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/0712802d13bb018f24cfc7b6c53ad44e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mher/.gradle/caches/transforms-2/files-2.1/d501aba8f3eeed52b10b6e478d98b977/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mher/.gradle/caches/transforms-2/files-2.1/d501aba8f3eeed52b10b6e478d98b977/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/a0135b6e499771cdee08c182b9771642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/a0135b6e499771cdee08c182b9771642/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/03a1d95be5424ae35c73f3c60a3f8d95/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/03a1d95be5424ae35c73f3c60a3f8d95/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/mher/.gradle/caches/transforms-2/files-2.1/d0d6e8afc4d12dc6cd48be132a342b43/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/mher/.gradle/caches/transforms-2/files-2.1/d0d6e8afc4d12dc6cd48be132a342b43/AndroidManifest.xml:5:5-43
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/d98bd9b1f2f3a03cb90aa0ccab0e82b9/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/d98bd9b1f2f3a03cb90aa0ccab0e82b9/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/cf6e99d3f43f587ca4ae136a0898db11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/cf6e99d3f43f587ca4ae136a0898db11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/50c4b34db72c00e04be7f32e7685f59a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/50c4b34db72c00e04be7f32e7685f59a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/66ffbc9a25f8532b24cce875796f1409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/66ffbc9a25f8532b24cce875796f1409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/db90febcaaaed85da6e0d57b5317af73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/db90febcaaaed85da6e0d57b5317af73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/e441819dda99110ead152275eed83e7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/e441819dda99110ead152275eed83e7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/62deec7622d9ab2c296daa7d64105ba1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/62deec7622d9ab2c296daa7d64105ba1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/5221f8c008092ed2fa817d637c45503e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/5221f8c008092ed2fa817d637c45503e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/4618f6242449fe63e5cd2af0a7b4d683/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/4618f6242449fe63e5cd2af0a7b4d683/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/761b774a3f6359204d447dcfce338be1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/761b774a3f6359204d447dcfce338be1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/68e32f5f48bcd7dec70fc601f82a9945/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/68e32f5f48bcd7dec70fc601f82a9945/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/82a5c70d9a8e3301f1728b380ae774f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/82a5c70d9a8e3301f1728b380ae774f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/08e29da07044492c7e250e76816a0d41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/08e29da07044492c7e250e76816a0d41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/75930fb6a6d426beab69db72c0cb082e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/75930fb6a6d426beab69db72c0cb082e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/14f5bb2b364ea405800bddca83844357/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/14f5bb2b364ea405800bddca83844357/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/d3188803b3aab8df42639a7e211fcc2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/d3188803b3aab8df42639a7e211fcc2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/aec0c52aba6911476a5914004b63bb6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/aec0c52aba6911476a5914004b63bb6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/d81e16dae1f34814754dea8bf07182b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/d81e16dae1f34814754dea8bf07182b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/38c3e7e65a8e28055dbb8403659df559/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/38c3e7e65a8e28055dbb8403659df559/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/a14f50610d678169fec51534830c24e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/a14f50610d678169fec51534830c24e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/735d850a5f64f974839653793d753967/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/735d850a5f64f974839653793d753967/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/6352944253f49fb2ff2d27fc02de32f1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/6352944253f49fb2ff2d27fc02de32f1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/6b889757cbee88196c08e08fba7a39f3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/6b889757cbee88196c08e08fba7a39f3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/b5495248352c5a3794e87d25392d34b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/b5495248352c5a3794e87d25392d34b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/c5e7102a0cd0585d649fe0dc68891f65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/c5e7102a0cd0585d649fe0dc68891f65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/a67edc415c9797ffe271d8b676ecaa32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/a67edc415c9797ffe271d8b676ecaa32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/2ca36675e81c16077c3a455b7693e304/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/2ca36675e81c16077c3a455b7693e304/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/3e9c202595aad639daf9e18d1540688d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/3e9c202595aad639daf9e18d1540688d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/21cb3795c1a95be2074bb914f60fb594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/mher/.gradle/caches/transforms-2/files-2.1/21cb3795c1a95be2074bb914f60fb594/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/6af615ef9464f8a68c450a1038ce83b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/6af615ef9464f8a68c450a1038ce83b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/3d92c3e2f299246b9077c659b713486c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/3d92c3e2f299246b9077c659b713486c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/edc5b8027382cd76ce74cb73e5b9e8ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/mher/.gradle/caches/transforms-2/files-2.1/edc5b8027382cd76ce74cb73e5b9e8ce/AndroidManifest.xml:20:5-44
+INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+		ADDED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mher/Downloads/My-Schedule-master/MySchedule/app/src/main/AndroidManifest.xml
